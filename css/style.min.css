@@ -223,6 +223,8 @@ a:hover {
 }
 .navbar-brand img[src$="svg"] {
 	min-width: 100px;
+	height: 60px;
+	width: auto;
 }
 .navbar .nav {
 	padding-top: 2px;
