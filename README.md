@@ -5,3 +5,6 @@
 ## Présentation du projet
 
 Ce projet consiste à _optimiser_ le site web et à le rendre plus _accessible_
+Touts les changement apportés sur le projet se trouvent dans la branche improveSEO
+
+PS: Ce projet à été réalisé dans un cadre de formation de Développeur Web
